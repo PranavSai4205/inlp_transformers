@@ -1,0 +1,5 @@
+# Ignored files and directories
+data/raw/
+__pycache__/
+nlp_env/
+S26_INLP_Projects.pdf
